@@ -8,9 +8,9 @@ global.confirmCode = ""
 
 global.owner = [
   ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
+  ['+393407804058',],
+  ['+393792735943'],	
+  ['+393714642499',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
 ] //Numero degli owner
